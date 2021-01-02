@@ -14,3 +14,10 @@ Whatever your historic environment project – from undertaking listed building 
 | Combining years of experience with the latest insights, we cover planning and listed building consent, help with archaeology, finding the right funding, Conservation Management Plans, Heritage Statements and Impact Statements. | ![](hexham-stair2.jpg) |
 
 Please get in touch to talk about how we can help you.
+
+<!-- use table for layout -->
+|||
+|-|-|
+|✉️ &nbsp;&nbsp; |mail@KeystoneHeritage.co.uk|
+|📞 |078 3456 1626|
+|☎︎ |0114 230 7849|

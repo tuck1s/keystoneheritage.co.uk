@@ -22,8 +22,8 @@ theme = "ananke-mod"
   recent_posts_number = 0
   cover_dimming_class = "bg-black-40"
 
-  # tuck1s additions
-  email = "mail@KeystoneHeritage.co.uk"
-  phone = "0114 230 7849"
-  mobile = "078 3456 1626"
+  # tuck1s additions - no longer used for this project
+  #email = "mail@KeystoneHeritage.co.uk"
+  #phone = "0114 230 7849"
+  #mobile = "078 3456 1626"
 multiLineDescription = ["one", "two"] # in page front matter
