@@ -1,0 +1,29 @@
+baseURL = "https://tuck1s.github.io/keystoneheritage.co.uk/"
+languageCode = "en-uk"
+title = "Keystone Heritage"
+author = "Steve Tuck"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+enableRobotsTXT = true
+copyright = "Keystone Heritage"
+
+theme = "ananke-mod"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    url = "/"
+
+[params]
+  # favicon = "/favicon.ico"
+  background_color_class = "bg-dark-gray"
+  recent_posts_number = 0
+  cover_dimming_class = "bg-black-40"
+
+  # tuck1s additions
+  email = "mail@KeystoneHeritage.co.uk"
+  phone = "0114 230 7849"
+  mobile = "078 3456 1626"
+multiLineDescription = ["one", "two"] # in page front matter
