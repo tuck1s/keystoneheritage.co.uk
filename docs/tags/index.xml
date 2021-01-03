@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Keystone Heritage</title>
-    <link>https://tuck1s.github.io/keystoneheritage.co.uk/tags/</link>
+    <link>keystoneheritage.co.uk/tags/</link>
     <description>Recent content in Tags on Keystone Heritage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>Keystone Heritage</copyright><atom:link href="https://tuck1s.github.io/keystoneheritage.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Keystone Heritage</copyright><atom:link href="keystoneheritage.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
