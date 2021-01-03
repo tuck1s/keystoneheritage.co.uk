@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Keystone Heritage</title>
-    <link>keystoneheritage.co.uk/categories/</link>
+    <link>https://keystoneheritage.co.uk/categories/</link>
     <description>Recent content in Categories on Keystone Heritage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>Keystone Heritage</copyright><atom:link href="keystoneheritage.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Keystone Heritage</copyright><atom:link href="https://keystoneheritage.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
