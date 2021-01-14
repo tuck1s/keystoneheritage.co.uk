@@ -8,7 +8,7 @@ multiLineDescription: ["Specialists in Heritage Regeneration", "","Projects, Pla
 
 Whatever your historic environment project – from undertaking listed building home improvements or saving a much loved community landmark to large infrastructure works and city centre regeneration, our team of heritage experts can tailor the perfect package of help and advice to ensure success.
 
-<!-- Put image side-by-side with text -->
+<!-- Put image side-by-side with text - it will be a bit small, but it's the best we can do -->
 | | |
 |-|-|
 | Combining years of experience with the latest insights, we cover planning and listed building consent, help with archaeology, finding the right funding, Conservation Management Plans, Heritage Statements and Impact Statements. | ![](hexham-stair2.jpg) |
